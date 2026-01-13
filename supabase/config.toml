@@ -1,0 +1,22 @@
+project_id = "qrizkdtwwjctcuctdonv"
+
+[functions.products]
+verify_jwt = false
+
+[functions.categories]
+verify_jwt = false
+
+[functions.orders]
+verify_jwt = false
+
+[functions.cart]
+verify_jwt = false
+
+[functions.reviews]
+verify_jwt = false
+
+[functions.admin-products]
+verify_jwt = false
+
+[functions.admin-stats]
+verify_jwt = false
